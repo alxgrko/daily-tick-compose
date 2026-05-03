@@ -1,0 +1,14 @@
+# Ignore Gradle build output
+/.gradle
+build/
+app/build/
+
+# Ignore local configuration
+.idea/
+*.iml
+
+# MacOS files
+.DS_Store
+
+# Log files
+*.log
